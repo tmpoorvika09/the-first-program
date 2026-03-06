@@ -1,2 +1,2 @@
 # the-first-program
-My beginner prigramming practice
+My beginner programming practice
